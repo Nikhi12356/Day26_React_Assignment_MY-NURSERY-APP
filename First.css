@@ -1,0 +1,33 @@
+
+.main-content {
+  background-color: #c8e6c9;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+}
+
+.main-content h2 {
+  color: #2e7d32;
+}
+
+.main-content p {
+  color: #333;
+}
+
+.main-content select {
+  padding: 8px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.main-content ul {
+  list-style-type: circle;
+  padding: 0;
+}
+
+.main-content li {
+  color: #2e7d32;
+  font-weight: bold;
+  margin: 5px 0;
+}
